@@ -287,10 +287,5 @@ Time-series forecasting system for predicting air quality.
 
 ---
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xx-devvv&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
