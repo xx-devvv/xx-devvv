@@ -6,9 +6,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Dev%20Pandey&fontSize=52&fontAlignY=38&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">
-Hi 👋 I'm Dev Pandey
-</h1>
+
 
 <h3 align="center">
 Software Engineering Student • AI Engineer • Machine Learning • Computer Vision
@@ -76,8 +74,6 @@ dev@pandey
 ────────────────────────────────────────────
 
 🎓 Education  : B.Tech Software Engineering @ DTU
-
-🤖 Role       : AI Intern @ SparkIIT (IIT Madras)
 
 🚁 Research   : AI & Computer Vision @ UAS-DTU
 
@@ -160,5 +156,141 @@ public:
 
 };
 ```
+
+---
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🚁 UAS Rescue Assignment System
+
+AI-powered rescue assignment system built using **Computer Vision**.
+
+**Tech Stack**
+- Python
+- OpenCV
+- NumPy
+
+**Highlights**
+- Casualty detection using image segmentation
+- Shape classification
+- Priority-based rescue allocation
+- Autonomous camp assignment
+
+</td>
+
+<td width="50%">
+
+### 📈 Number of Orders Prediction
+
+Machine Learning model for demand forecasting.
+
+**Tech Stack**
+- Python
+- XGBoost
+- Streamlit
+
+**Highlights**
+- Feature Engineering
+- Demand Forecasting
+- Interactive Web Dashboard
+- Real-world Business Dataset
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 AI Tech Support Bot
+
+NLP chatbot for automated customer support.
+
+**Tech Stack**
+- Python
+- TF-IDF
+- Logistic Regression
+- Streamlit
+
+**Highlights**
+- Intent Classification
+- FAQ Automation
+- Fast Response Generation
+- Interactive UI
+
+</td>
+
+<td width="50%">
+
+### 💳 Credit Card Fraud Detection
+
+Machine Learning model to detect fraudulent transactions.
+
+**Tech Stack**
+- Python
+- Random Forest
+- XGBoost
+- Scikit-Learn
+
+**Highlights**
+- Imbalanced Dataset Handling
+- Fraud Prediction
+- Ensemble Learning
+- Performance Optimization
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+### 🌫️ AQI Forecasting Analysis
+
+Time-series forecasting system for predicting air quality.
+
+**Tech Stack**
+- Python
+- ARIMA
+- Holt-Winters
+- Streamlit
+
+**Highlights**
+- Air Quality Prediction
+- Time-Series Analysis
+</td>
+
+</tr>
+
+</table>
+
+
+# 🏆 Achievements
+
+- 🥇 **2× Winner** — Invictus'26 (DTU Tech Fest)
+
+- 🤖 Completed **AI Internship** at SparkIIT (IIT Madras)
+
+- 🌱 **Open Source Contributor** — Google Winter of Code 5.0
+
+
+
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xx-devvv&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
