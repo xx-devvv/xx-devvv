@@ -6,8 +6,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Dev%20Pandey&fontSize=52&fontAlignY=38&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-
-
 <h3 align="center">
 Software Engineering Student • AI Engineer • Machine Learning • Computer Vision
 </h3>
@@ -158,7 +156,6 @@ public:
 ```
 
 ---
----
 
 # 🚀 Featured Projects
 
@@ -210,21 +207,21 @@ Machine Learning model for demand forecasting.
 
 <td width="50%">
 
-### 🤖 AI Tech Support Bot
+### 🌫️ AQI Forecasting Analysis
 
-NLP chatbot for automated customer support.
+Time-series forecasting system for predicting air quality.
 
 **Tech Stack**
 - Python
-- TF-IDF
-- Logistic Regression
+- ARIMA
+- Holt-Winters
 - Streamlit
 
 **Highlights**
-- Intent Classification
-- FAQ Automation
-- Fast Response Generation
-- Interactive UI
+- Air Quality Prediction
+- Time-Series Analysis
+- Trend Visualization
+- Forecast Accuracy Evaluation
 
 </td>
 
@@ -254,25 +251,31 @@ Machine Learning model to detect fraudulent transactions.
 
 <td colspan="2">
 
-### 🌫️ AQI Forecasting Analysis
+### 🏛️ NagarSeva AI
 
-Time-series forecasting system for predicting air quality.
+AI-powered civic grievance and community safety platform for reporting, tracking, and managing public infrastructure issues.
 
 **Tech Stack**
-- Python
-- ARIMA
-- Holt-Winters
-- Streamlit
+- React
+- TypeScript
+- FastAPI
+- SQLite
+- Tailwind CSS
+- Leaflet
 
 **Highlights**
-- Air Quality Prediction
-- Time-Series Analysis
+- AI-powered complaint categorization & department routing
+- Interactive safety map with GPS-based reporting
+- Real-time complaint tracking & analytics dashboard
+- Authority portal with complaint management system
+
 </td>
 
 </tr>
 
 </table>
 
+---
 
 # 🏆 Achievements
 
@@ -281,11 +284,5 @@ Time-series forecasting system for predicting air quality.
 - 🤖 Completed **AI Internship** at SparkIIT (IIT Madras)
 
 - 🌱 **Open Source Contributor** — Google Winter of Code 5.0
-
-
-
-
----
-
 
 ---
