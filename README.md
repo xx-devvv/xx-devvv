@@ -91,7 +91,7 @@ dev@pandey
 
 📫 Email      : devpandey495@yahoo.com
 
-🌐 LinkedIn   : linkedin.com/in/dev-pandey
+🌐 LinkedIn   : www.linkedin.com/in/devpandey29/
 
 ⚡ Motto      : Learn. Build. Share. Repeat.
 </pre>
