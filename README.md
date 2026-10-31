@@ -250,7 +250,7 @@ Machine Learning model to detect fraudulent transactions.
 
 <tr>
 
-<td colspan="2">
+<td width="50%">
 
 ### 🏛️ NagarSeva AI
 
@@ -269,6 +269,28 @@ AI-powered civic grievance and community safety platform for reporting, tracking
 - Interactive safety map with GPS-based reporting
 - Real-time complaint tracking & analytics dashboard
 - Authority portal with complaint management system
+
+</td>
+
+<td width="50%">
+
+### 🚁 AeroRecon AI
+
+AI-powered platform that converts drone images into interactive textured 3D models.
+
+**Tech Stack**
+- Next.js
+- TypeScript
+- FastAPI
+- Gemini AI
+- Stable Fast 3D
+- Three.js
+
+**Highlights**
+- Gemini-powered aerial scene analysis
+- Single-image 3D reconstruction
+- Interactive 3D viewer with rotate, zoom & pan
+- GLB model export
 
 </td>
 
