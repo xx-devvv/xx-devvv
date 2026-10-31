@@ -165,39 +165,40 @@ public:
 
 <td width="50%">
 
-### 🚁 UAS Rescue Assignment System
+### 🧩 DSA – LeetCode Solutions
 
-AI-powered rescue assignment system built using **Computer Vision**.
+Topic-wise and difficulty-wise collection of **Data Structures & Algorithms** solutions.
 
 **Tech Stack**
-- Python
-- OpenCV
-- NumPy
+- C++
+- Standard Template Library (STL)
 
 **Highlights**
-- Casualty detection using image segmentation
-- Shape classification
-- Priority-based rescue allocation
-- Autonomous camp assignment
+- Topic-wise problem organization
+- Easy, Medium & Hard solutions
+- Data Structures & Algorithms practice
+- Daily progress tracking
 
 </td>
 
 <td width="50%">
 
-### 📈 Number of Orders Prediction
+### 🧵 Threadwake
 
-Machine Learning model for demand forecasting.
+Meeting-to-execution agent that turns transcripts into **decisions and tasks**.
 
 **Tech Stack**
-- Python
-- XGBoost
-- Streamlit
+- React
+- TypeScript
+- Node.js
+- Express
+- Vite
 
 **Highlights**
-- Feature Engineering
-- Demand Forecasting
-- Interactive Web Dashboard
-- Real-world Business Dataset
+- Speaker-attributed transcript analysis
+- Decision history & conflict detection
+- Approval-based GitHub task creation
+- In-app reminders & weekly briefs
 
 </td>
 
